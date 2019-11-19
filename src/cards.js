@@ -75,7 +75,7 @@ angular.module('angularPayments')
       pattern: /^4/,
       format: defaultFormat,
       inputFormat: defaultInputFormat,
-      length: [13, 14, 15, 16],
+      length: [16],
       cvcLength: [3],
       luhn: true
     }
